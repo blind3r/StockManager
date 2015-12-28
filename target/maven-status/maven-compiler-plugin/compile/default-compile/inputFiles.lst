@@ -1,0 +1,8 @@
+/home/blind3r/Workspace/StockManager/src/main/java/com/mvalente/jpmorgan/stocks/model/TradeType.java
+/home/blind3r/Workspace/StockManager/src/main/java/com/mvalente/jpmorgan/stocks/model/Stock.java
+/home/blind3r/Workspace/StockManager/src/main/java/com/mvalente/jpmorgan/stocks/dao/StocksDAO.java
+/home/blind3r/Workspace/StockManager/src/main/java/com/mvalente/jpmorgan/stocks/service/StockService.java
+/home/blind3r/Workspace/StockManager/src/main/java/com/mvalente/jpmorgan/stocks/model/Trade.java
+/home/blind3r/Workspace/StockManager/src/main/java/com/mvalente/jpmorgan/stocks/model/StockType.java
+/home/blind3r/Workspace/StockManager/src/main/java/com/mvalente/jpmorgan/stocks/service/impl/StockServiceImpl.java
+/home/blind3r/Workspace/StockManager/src/main/java/com/mvalente/jpmorgan/stocks/dao/impl/StocksDAOImpl.java
